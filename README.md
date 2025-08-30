@@ -48,19 +48,19 @@ Here are some ideas to get you started:
 ## ❤️ Let's get a Coffee: 😄
 
 <p>
-  <a href="https://www.linkedin.com/in/kamel-amen/" target="_blank">
+  <a href="http://www.linkedin.com/in/kamel-amin32" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/>
   </a> 
   
-  <a href="https://www.youtube.com/@kamel_amen" target="_blank">
+  <a href="https://www.youtube.com/channel/UC4ln58He-q8E209UBy47XSw" target="_blank">
     <img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30px" />
   </a>
   
-  <a href="mailto:kamelamen38@gmail.com" target="_blank">
+  <a href="mailto:kamelamin298@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30px" />
   </a>
 
-  <a href="https://kamel-amen.github.io/react-portfolio/" target="_blank">
+  <a href="https://kamel-amin-portfolio.netlify.app/" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" height="30px" />
   </a>
 
@@ -76,4 +76,4 @@ Here are some ideas to get you started:
 </ul>
 
 ## My Status 🤔
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamel-Amen&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamel-Amin&show_icons=true&theme=radical)
