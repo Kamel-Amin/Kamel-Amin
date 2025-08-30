@@ -1,4 +1,4 @@
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="50px"  width="50px"> I'm Kamel Amen</h1>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="50px"  width="50px"> I'm Kamel Amin</h1>
 
 <!--
 **Kamel-Amen/Kamel-Amen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
