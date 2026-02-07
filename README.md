@@ -25,8 +25,7 @@ Here are some ideas to get you started:
 <!--
 ## My Most Used Working Tools 💻
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamel-Amin)](https://github.com/Kamel-Amin/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamel-Amin&layout=compact&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠️ Technologies and Tools I use:
 
