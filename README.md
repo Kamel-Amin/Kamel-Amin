@@ -1,38 +1,23 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="50px"  width="50px"> I'm Kamel Amin</h1>
 
-<!--
-**Kamel-Amin/Kamel-Amin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/62405933/161188355-f4d85c2e-3ef0-4981-8ce0-fdec3ba6a9a6.png" width="100%" height="400px">
 </div>
 
 ## 👨🏻‍💻 About Me:
 <div>
-  <div align="left">
+  <div align="left" width="50%">
     <p>Frontend Developer passionate about building clean, responsive, and user-friendly web interfaces.
     I enjoy working with React, Next.js, and modern UI tools, and I’m always learning new technologies.
     </p>
   </div>
-  <div align="right">
+  <div align="right" width="50%">
     <img src="https://user-images.githubusercontent.com/62405933/161188563-8508262f-6848-4b8b-b7c7-25225dc25772.gif" height="290px" />
   </div>
 </div>
 
 ## My Most Used Working Tools 💻
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamel-Amin&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=86400)](https://github.com/Kamel-Amin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamel-Amin)](https://github.com/Kamel-Amin/github-readme-stats)
 
 ## 🛠️ Technologies and Tools I use:
 
