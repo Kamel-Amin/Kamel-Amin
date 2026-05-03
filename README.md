@@ -27,7 +27,7 @@ I enjoy working with React, Next.js, and modern UI tools, and I’m always learn
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamel-Amin&layout=compact&theme=tokyonight&langs_count=8" />
 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamel-Amin&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=86400" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kamel-Amin&show_icons=true&theme=tokyonight" />
 </p>
 
 ## 🛠️ Technologies and Tools I use:
@@ -82,5 +82,5 @@ I enjoy working with React, Next.js, and modern UI tools, and I’m always learn
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kamel-Amin&show_icons=true&theme=tokyonight" />
 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kamel-Amin&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kamel-Amin&layout=compact&theme=tokyonight" />
 </p>
