@@ -29,7 +29,7 @@ I enjoy working with React, Next.js, and modern UI tools, and I’m always learn
 <!--
 ## My Most Used Working Tools 💻
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamel-Amin&layout=compact&theme=tokyonight&count_private=true&langs_count=8)](https://github.com/Kamel-Amin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamel-Amin&layout=compact&theme=tokyonight&count_private=true&langs_count=8)]
 
 ## 🛠️ Technologies and Tools I use:
 
@@ -80,4 +80,3 @@ I enjoy working with React, Next.js, and modern UI tools, and I’m always learn
 
 ## 📊 My GitHub Status
 ![Kamel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamel-Amin&show_icons=true&theme=tokyonight&count_private=true)
-
