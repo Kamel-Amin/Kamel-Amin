@@ -1,27 +1,33 @@
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="50px"  width="50px"> I'm Kamel Amin</h1>
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px"> I'm Kamel Amin
+</h1>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/62405933/161188355-f4d85c2e-3ef0-4981-8ce0-fdec3ba6a9a6.png" width="100%" height="400px">
+  <img src="https://user-images.githubusercontent.com/62405933/161188355-f4d85c2e-3ef0-4981-8ce0-fdec3ba6a9a6.png" width="100%">
 </div>
+
+<table>
+<tr>
+<td>
 
 ## 👨🏻‍💻 About Me:
-<div>
-  <div align="left" width="50%">
-    <p>Frontend Developer passionate about building clean, responsive, and user-friendly web interfaces.
-    I enjoy working with React, Next.js, and modern UI tools, and I’m always learning new technologies.
-    </p>
-  </div>
-  <div align="right" width="50%">
-    <img src="https://user-images.githubusercontent.com/62405933/161188563-8508262f-6848-4b8b-b7c7-25225dc25772.gif" height="290px" />
-  </div>
-</div>
+Frontend Developer passionate about building clean, responsive, and user-friendly web interfaces.  
+I enjoy working with React, Next.js, and modern UI tools, and I’m always learning new technologies.
+
+</td>
+
+<td>
+<img src="https://user-images.githubusercontent.com/62405933/161188563-8508262f-6848-4b8b-b7c7-25225dc25772.gif" height="250px"/>
+</td>
+</tr>
+</table>
 
 ## My Most Used Working Tools 💻
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamel-Amin)](https://github.com/Kamel-Amin/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamel-Amin&layout=compact&theme=tokyonight&langs_count=8" />
 
 ## 🛠️ Technologies and Tools I use:
 
-<p>
+<p align="center">
 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
 <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
@@ -30,7 +36,7 @@
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
 <img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="25px"/>
-<img alt="typescript" src="https://img.shields.io/badge/Typescript-CC6699?style=for-the-badge&logo=typescript&logoColor=white" height="25px"/>
+<img alt="typescript" src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="25px"/>
 <img alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px" />
 <img alt="firebase" src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" height="25px" />
 <img alt="next js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px" />
@@ -67,4 +73,4 @@
 </ul>
 
 ## 📊 My GitHub Status
-[![Kamel's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamel-amin&show_icons=true&theme=tokyonight&cache_seconds=86400)](https://github.com/kamel-amin/github-readme-stats)
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kamel-Amin&show_icons=true&theme=tokyonight" />
