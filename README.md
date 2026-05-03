@@ -23,12 +23,13 @@ Here are some ideas to get you started:
 <p>Frontend Developer passionate about building clean, responsive, and user-friendly web interfaces.
 I enjoy working with React, Next.js, and modern UI tools, and I’m always learning new technologies.
 </p>
-<img  src="https://user-images.githubusercontent.com/62405933/161188563-8508262f-6848-4b8b-b7c7-25225dc25772.gif" height="290px" align="right" />
-
+<div align="right">
+  <img src="https://user-images.githubusercontent.com/62405933/161188563-8508262f-6848-4b8b-b7c7-25225dc25772.gif" height="290px" />
+</div>
 <!--
 ## My Most Used Working Tools 💻
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamel-Amin&layout=compact&theme=tokyonight&count_private=true&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamel-Amin&layout=compact&theme=tokyonight&count_private=true&langs_count=8)](https://github.com/Kamel-Amin)
 
 ## 🛠️ Technologies and Tools I use:
 
@@ -78,6 +79,5 @@ I enjoy working with React, Next.js, and modern UI tools, and I’m always learn
 </ul>
 
 ## 📊 My GitHub Status
-![Kamel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamel-Amin&show_icons=true&theme=tokyonight)
-
+![Kamel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamel-Amin&show_icons=true&theme=tokyonight&count_private=true)
 
