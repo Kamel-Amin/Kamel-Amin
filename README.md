@@ -23,7 +23,12 @@ I enjoy working with React, Next.js, and modern UI tools, and I’m always learn
 </table>
 
 ## My Most Used Working Tools 💻
+<!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamel-Amin&layout=compact&theme=tokyonight&langs_count=8" />
+-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamel-Amin&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=86400" />
+</p>
 
 ## 🛠️ Technologies and Tools I use:
 
@@ -38,8 +43,8 @@ I enjoy working with React, Next.js, and modern UI tools, and I’m always learn
 <img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="25px"/>
 <img alt="typescript" src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="25px"/>
 <img alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px" />
-<img alt="firebase" src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" height="25px" />
 <img alt="next js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px" />
+<img alt="firebase" src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" height="25px" />
 </p>
 
 ## ❤️ Let's get a Coffee: 😄
@@ -73,4 +78,9 @@ I enjoy working with React, Next.js, and modern UI tools, and I’m always learn
 </ul>
 
 ## 📊 My GitHub Status
+<!--
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kamel-Amin&show_icons=true&theme=tokyonight" />
+-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kamel-Amin&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+</p>
