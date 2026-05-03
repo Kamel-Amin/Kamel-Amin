@@ -1,7 +1,7 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="50px"  width="50px"> I'm Kamel Amin</h1>
 
 <!--
-**Kamel-Amen/Kamel-Amen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Kamel-Amin/Kamel-Amin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -28,7 +28,7 @@ I enjoy working with React, Next.js, and modern UI tools, and I’m always learn
 </div>
 
 ## My Most Used Working Tools 💻
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamel-Amin&layout=compact&theme=tokyonight&count_private=true&langs_count=8)](https://github.com/Kamel-Amin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamel-Amin&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=86400)](https://github.com/Kamel-Amin)
 
 ## 🛠️ Technologies and Tools I use:
 
@@ -78,4 +78,4 @@ I enjoy working with React, Next.js, and modern UI tools, and I’m always learn
 </ul>
 
 ## 📊 My GitHub Status
-![Kamel's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kamel-Amin&show_icons=true&theme=tokyonight)
+![Kamel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamel-Amin&show_icons=true&theme=tokyonight&cache_seconds=86400)
