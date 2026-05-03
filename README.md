@@ -78,4 +78,8 @@ I enjoy working with React, Next.js, and modern UI tools, and I’m always learn
 </ul>
 
 ## 📊 My GitHub Status
+  <!--
 ![Kamel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamel-Amin&show_icons=true&theme=tokyonight&cache_seconds=86400)
+  -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
