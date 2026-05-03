@@ -20,11 +20,15 @@ Here are some ideas to get you started:
 </div>
 
 ## 👨🏻‍💻 About Me:
-<p>Frontend Developer passionate about building clean, responsive, and user-friendly web interfaces.
-I enjoy working with React, Next.js, and modern UI tools, and I’m always learning new technologies.
-</p>
-<div align="right">
-  <img src="https://user-images.githubusercontent.com/62405933/161188563-8508262f-6848-4b8b-b7c7-25225dc25772.gif" height="290px" />
+<div>
+  <div align="left">
+    <p>Frontend Developer passionate about building clean, responsive, and user-friendly web interfaces.
+    I enjoy working with React, Next.js, and modern UI tools, and I’m always learning new technologies.
+    </p>
+  </div>
+  <div align="right">
+    <img src="https://user-images.githubusercontent.com/62405933/161188563-8508262f-6848-4b8b-b7c7-25225dc25772.gif" height="290px" />
+  </div>
 </div>
 
 ## My Most Used Working Tools 💻
@@ -78,8 +82,4 @@ I enjoy working with React, Next.js, and modern UI tools, and I’m always learn
 </ul>
 
 ## 📊 My GitHub Status
-  <!--
-![Kamel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamel-Amin&show_icons=true&theme=tokyonight&cache_seconds=86400)
-  -->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Kamel's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamel-amin&show_icons=true&theme=tokyonight&cache_seconds=86400)](https://github.com/kamel-amin/github-readme-stats)
