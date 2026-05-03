@@ -6,6 +6,8 @@
   <img src="https://user-images.githubusercontent.com/62405933/161188355-f4d85c2e-3ef0-4981-8ce0-fdec3ba6a9a6.png" width="100%">
 </div>
 
+<br/>
+
 <table>
 <tr>
 <td>
@@ -23,12 +25,7 @@ I enjoy working with React, Next.js, and modern UI tools, and I’m always learn
 </table>
 
 ## My Most Used Working Tools 💻
-<!--
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamel-Amin&layout=compact&theme=tokyonight&langs_count=8" />
--->
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kamel-Amin&show_icons=true&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kamel-Amin&layout=compact&theme=tokyonight" />
 
 ## 🛠️ Technologies and Tools I use:
 
@@ -78,9 +75,4 @@ I enjoy working with React, Next.js, and modern UI tools, and I’m always learn
 </ul>
 
 ## 📊 My GitHub Status
-<!--
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kamel-Amin&show_icons=true&theme=tokyonight" />
--->
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kamel-Amin&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kamel-Amin&show_icons=true&theme=tokyonight" />
